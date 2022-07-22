@@ -107,6 +107,19 @@
   height: 1em;
   margin-left: 0.5rem;
 }
+.bg {
+  background-color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: fit-content;
+}
+.button{
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  padding: 12px 8px;
+  cursor: pointer;
+}
 
 @media (max-width: 600px) {
   .grid {
